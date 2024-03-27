@@ -8,4 +8,4 @@
 ### Partition the data,
 ### Cache and uncache temporary table,
 ### Verify table uncached,
-### Using Google Collaboratory.
+### Used Google Collaboratory.
